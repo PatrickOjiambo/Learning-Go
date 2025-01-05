@@ -12,7 +12,6 @@ package main
 import (
 	"encoding/base64"
 	"encoding/hex"
-	
 	"fmt"
 )
 func main() {
